@@ -13,6 +13,8 @@ function connect() {
 
         //Display existing records at first load
         stompClient.send("/start", {});
+    }, function(msg){
+        $("#connect-status").html("Disconnected");
     });
 }
 
