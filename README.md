@@ -1,4 +1,4 @@
-# CurrencyFair Backend Developer Challenge Demo by Felix Tam
+# Spring boot demo
 
 ### Technical stack used in this project
 * Spring Boot (Java based)
